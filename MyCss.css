@@ -1,0 +1,63 @@
+/* body*/
+body {
+    background-image: url("http://www.incomeactivator.com/images/freebg5.jpg");
+	padding: 50px 50px 50px 50px;
+	border-style: groove;
+    border-width: 15px;
+	border-color: blue;
+}
+
+
+    /*Tabs (pills)*/
+	
+.nav-pills{
+  background-color:#161616;
+  color: blue;
+}
+.pill-content{
+    background-color:#303136;
+    color:#fff;
+    padding:5px
+}
+.nav-pills > li > a{
+  border: medium none;
+  color: blue;
+}
+.nav-pills > li > a:hover{
+  background-color: #303136 !important;
+    border: medium none;
+    border-radius: 0;
+    color:#fff;
+}
+
+.tab-content {
+  padding:15px;
+  border-radius:3px;
+  box-shadow:-1px 1px 1px rgba(0,0,0,0.15);
+  background:black;
+    }
+ 
+
+ /*Headings*/
+
+
+h1 {
+    font-style: oblique;
+	color: blue;
+}
+
+
+h2 {
+    font-style: oblique;
+	color: blue;
+}
+
+h3 {
+    font-style: oblique;
+	color: blue;
+}
+
+h4 {
+    font-style: oblique;
+	color: blue;
+}
